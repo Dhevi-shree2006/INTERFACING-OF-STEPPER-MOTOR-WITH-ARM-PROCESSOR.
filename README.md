@@ -54,7 +54,7 @@ Target1: Source group1: Startuplpc17xx.s, main.c (t), delay.c (t), systemlpc17xx
 <img width="434" height="327" alt="image" src="https://github.com/user-attachments/assets/dd20b717-628c-44b9-aef2-a04232214ffb" />
 
 # PROGRAM:
-
+```
 C
 #include <lpc17xx.h>
 #include "gpio.h"
@@ -129,7 +129,7 @@ int main()
     }
 }
 
-
+```
 # OUTPUT:
 
 <img width="828" height="821" alt="image" src="https://github.com/user-attachments/assets/b1849269-4000-4161-ac04-80a7f9896de4" />
