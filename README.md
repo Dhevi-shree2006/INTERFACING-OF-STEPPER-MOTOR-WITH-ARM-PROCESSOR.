@@ -52,6 +52,8 @@ Target1: Source group1: Startuplpc17xx.s, main.c (t), delay.c (t), systemlpc17xx
 
 # CIRCUIT DIAGRAM:
 <img width="434" height="327" alt="image" src="https://github.com/user-attachments/assets/dd20b717-628c-44b9-aef2-a04232214ffb" />
+<img width="952" height="402" alt="image" src="https://github.com/user-attachments/assets/b4f7f094-f07b-4013-acc6-4ceed79b19e6" />
+
 
 # PROGRAM:
 ```
